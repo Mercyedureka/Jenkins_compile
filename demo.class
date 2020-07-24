@@ -1,0 +1,4 @@
+app_name = "Facebook"
+currency = "USD"
+print (app_name)
+print (currency)
